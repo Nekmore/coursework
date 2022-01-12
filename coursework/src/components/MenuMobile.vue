@@ -16,7 +16,7 @@
 <style>
     .mobile_menu{ 
         width: 240px;
-        height: 4.7%;
+        height: 42px;
         position: fixed;
         margin:auto;
         top: 90%;

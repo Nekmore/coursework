@@ -58,9 +58,9 @@ export default {
 <style scoped>
 
 .Item {
-  overflow: hidden;
-  border-radius: 4px;
   width: 100%;
+  overflow: hidden;
+  border-radius: 10px;
   background: #F5F5F5;
   margin-top: 8px;
 }
