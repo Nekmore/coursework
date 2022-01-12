@@ -62,12 +62,13 @@ export default {
   border-radius: 4px;
   width: 100%;
   background: #F5F5F5;
+  margin-top: 8px;
 }
 
 img {
-  object-fit: cover;
   width: 100%;
   height: 100%;
+  object-fit: cover;
   line-height: 0;
   display: block;
 }
